@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695826443755",
+    "project_id": "medilife-26ef9",
+    "storage_bucket": "medilife-26ef9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695826443755:android:1b8f64e6578f07b078bdae",
+        "android_client_info": {
+          "package_name": "com.medilife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3l2NeCdN0qYMFgvdjzWdhrUaX2S9QAHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
