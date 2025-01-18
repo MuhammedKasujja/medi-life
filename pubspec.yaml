@@ -13,6 +13,12 @@ dependencies:
   cloud_firestore: ^5.6.1
   flutter_bloc: ^9.0.0
   bloc: ^9.0.0
+  # flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.0
+  permission_handler: ^11.3.1
+  # alarm: ^4.1.1
+  shared_preferences: ^2.3.5
+  alarm: ^5.0.0-dev.8
 
 dev_dependencies:
   flutter_test:
